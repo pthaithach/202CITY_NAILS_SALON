@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "City Nails Salon",
+        "slug"      : "city-nails-salon",
+        "phone"     : "770 382-3111",
+        "email"     : "citynails2019@yahoo.com",
+        "address"   : "509 N Tennessee St Ste 101 Cartersville, GA 30120",
+        "state"     : "Georgia 30120",
+        "ward"      : "Cartersville",
+        "time_1"    : "Mon - Thu: 10:00 AM - 07:00 PM",
+        "time_2"    : "Fri - Sat: 09:30 AM - 07:00 PM",
+        "time_3"    : "Sun: 12:00 PM - 06:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/ctnail509ntennesseestcartersvillega",
+        "instagram" :   "https://www.instagram.com/ctnails_incartersville/",
+        "google"    :   "https://goo.gl/maps/Wr5keyRcZp8FgAYy9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDgyODJ8Y2l0eW5haWxzNTA5fEdBXzA4MDM0fDE3MzlmNDA3YmVkZjYyMGM4M2ZhYjVlYzdlNTliMmMx",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13203.281295931847!2d-84.792932!3d34.1765112!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4179518e98f9955e!2sCITY%20NAILS!5e0!3m2!1svi!2s!4v1667536474292!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#ff847d",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "https://github.com/pthaithach/202CITY_NAILS_SALON.git/"
+}
